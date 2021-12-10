@@ -1,0 +1,123 @@
+.row{
+  margin-left: 10px;
+  padding-top: 10px;
+  margin-top: 10px;
+  border-radius: 20px;
+  color:
+}
+
+
+/*
+
+.body {
+  background-color: wheat;
+ 
+}
+
+.card{
+  height: auto;
+  width: 200px;
+  display: flex;
+  justify-content:space-between;
+}
+
+.container{
+  background-color:burlywood;
+  border-radius: 20px;
+  border-color: cornsilk;
+  
+}
+
+.container-fluid{
+  width: 200;
+  padding: 5px 5px;
+
+}
+.col-4{
+  background-color: brown;
+}
+.contact_div{
+  background-color: burlywood;
+}
+
+.my-5{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-weight: 300;
+ color:thistle;
+
+}
+.first-div{
+  margin-top: 300px;
+  margin-left: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color:brown;
+  font-weight: 500;
+}
+
+#header .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down {
+ 0% {
+   transform: translateY(10px);
+ }
+ 100% {
+   transform: translateY(-10px);
+ }
+}
+
+@keyframes up-down {
+0% {
+  transform: translateY(10px);
+}
+100%{
+  transform: translateY(-10px);
+}
+}
+
+.contain{
+  justify-items: start;
+
+}
+.container-fluid{
+  background-color:cadetblue;
+  align-items: flex-end;
+
+}
+
+.col-md-6{
+  color: bisque;
+  
+}
+
+.col-12{
+  color:burlywood
+}
+
+.col-md-4{
+  color: burlywood;
+}
+
+.col-md-4{
+  width: 50px;
+  background-color: cadetblue;
+  margin-top: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border:solid honeydew;
+}
+.col-md-12{
+  color:burlywood;
+}
+
+
+
+.button{
+  color:;
+}
+
+*/
